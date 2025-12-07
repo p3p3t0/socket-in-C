@@ -1,6 +1,6 @@
 # socket-in-C
 
-A simple, visually enhanced client-server chat application built with C sockets. This application demonstrates basic network programming concepts with a beautiful terminal interface featuring colors, timestamps, and clear visual separation.
+A simple, client-server chat application built with C sockets. This application demonstrates basic network programming concepts with visual separation.
 
 
 ## Requirements
